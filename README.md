@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diane Jen F. Arellano</h1>
 <h3 align="center">A passionate IT student of St. Peter's College from the City of Iligan.</h3>
 
+- 🌱 I’m currently learning **CSS, HTML,and C++**
+
 - 📫 How to reach me **dianejenarellano.202200591@gmail.com**
 
 - ⚡ Fun fact **I like watching Anime and reading manga or manhwa.**
